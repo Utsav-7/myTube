@@ -1,5 +1,5 @@
 
-# MyTube
+# myTube
 
 MyTube is a web application that allows users to upload and view videos. Built with NodeJS, ReactJS, MongoDB, and Firebase, it offers a range of features for a seamless user experience.
 
