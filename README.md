@@ -21,7 +21,7 @@ Client and server code separately so follow below mentioned command for both sid
 
  Clone the repository
 ```bash
-  git clone https://github.com/Grasmit/MyTube.git
+  git clone https://github.com/Utsav-7/myTube.git
 ```
 Install the dependencies
 ```bash
